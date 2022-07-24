@@ -1,3 +1,5 @@
+
+/*first section*/
 .container-block1 {
 	width: 1138px;
 	margin-left: auto;
@@ -14,12 +16,21 @@
 	font-size: 42px;
 
 }
+
+/*left-block*/
 .left-block {
 	width: 536px;
 	height: 190px;
 	background: #F8F8F8;
 	display: inline-block;
+
+}
+.block-image1 {
 	
+	padding-top: 0px;
+	padding-right: 368px;
+	padding-bottom: 0px;
+	padding-left: 0px;
 
 
 }
@@ -32,13 +43,15 @@
 .block-title2 {
 	width: 193px;
 	height: 25px;
-	font-size: 18px;
+	font-size: 18;
 }
+
 .block-text1 {
 	width: 260px;
 	height: 62px;
 	font-size: 14px;
 	color: #B1B1B1;
-	display: inline-block;
-	vertical-align: middle;
+	
 }
+
+
