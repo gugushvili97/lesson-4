@@ -15,6 +15,10 @@
 
 }
 .left-block {
+	width: 536px;
+	height: 190px;
+	background: #F8F8F8;
+	display: inline-block;
 
 
 }
@@ -28,4 +32,12 @@
 	width: 193px;
 	height: 25px;
 	font-size: 18px;
+}
+.block-text1 {
+	width: 260px;
+	height: 62px;
+	font-size: 14px;
+	color: #B1B1B1;
+	display: inline-block;
+	vertical-align: middle;
 }
