@@ -1,23 +1,25 @@
 
 /*first section*/
 .container-block1 {
-	width: 1138px;
+	width: 1088px;
 	margin-left: auto;
 	margin-right: auto;
+	
 }
 .container1-title1 {
-	width: 92px;
-	height: 20px;
+	/*width: 92px;*/
+	/*height: 20px;*/
 	font-size: 14px;
 }
 .container1-title2 {
-	width: 498px;
-	height: 115px;
+	/*width: 498px;*/
+	/*height: 115px;*/
 	font-size: 42px;
 
 }
 
 /*left-block*/
+
 .left-block {
 	width: 536px;
 	height: 190px;
@@ -26,32 +28,40 @@
 
 }
 .block-image1 {
-	
-	padding-top: 0px;
-	padding-right: 368px;
-	padding-bottom: 0px;
-	padding-left: 0px;
+	width: 168px;
+	height: 190px;
+	vertical-align: top;
+
 
 
 }
+.description1 {
+	width: 368px;
+	display: inline-block;
+	vertical-align:  top;
+
+
+}
+
 .block-title1 {
-	width: 40px;
-	height: 20px;
 	font-size: 14px;
 	color: #5863F8;
+	margin: 37px 0px 1px 16px;
+
+
+	
 }
 .block-title2 {
-	width: 193px;
-	height: 25px;
-	font-size: 18;
+	font-size: 18px;
+	margin-left: 16px;
 }
 
 .block-text1 {
 	width: 260px;
-	height: 62px;
 	font-size: 14px;
 	color: #B1B1B1;
-	
+	margin-top: 10px;
+	margin-left: 16px;	
 }
 
 
