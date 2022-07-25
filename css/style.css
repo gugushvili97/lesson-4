@@ -63,5 +63,43 @@
 	margin-top: 10px;
 	margin-left: 16px;	
 }
+ /*right block*/
+
+.right-block {
+	width: 520px;
+	height: 190px;
+	display: inline-block;
+	background: #BE2B2B;
+	margin-left: 18px;
+}
+.block-image2 {
+	width: 168px;
+	height: 190px;
+	vertical-align: top;
+}
+.description2 {
+	width: 320px;
+	display: inline-block;
+	vertical-align:  top;
+	
+}
+.heading-1 {
+	font-size: 14px;
+	color: #5863F8;
+	margin: 37px 0px 1px 16px;
+}
+.heading-2 {
+	font-size: 18px;
+	margin-left: 16px;
+
+}
+.block-text2 {
+	width: 260px;
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-top: 10px;
+	margin-left: 16px;
+
+}
 
 
