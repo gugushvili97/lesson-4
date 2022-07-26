@@ -125,6 +125,7 @@
 	height: 148px;
 	background: #F8F8F8;
 	display: inline-block;
+	margin-right: 16px;
 }
 .rock {
 	width: 352px;
@@ -182,6 +183,12 @@
 	font-size: 18px;
 	color: #000000;
 	margin: 0px 0px 10px 66px
+}
+.secondblock-text {
+	width: 260px;
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-left: 46px;
 }
 
 
