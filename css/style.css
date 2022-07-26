@@ -230,6 +230,7 @@
 	color: #5863F8;
 	margin: 23px 0px 5px 125px;
 	text-decoration: underline overline;
+	font-family: "BPG Nino Elite", sans-serif;
 }
 .title-2 {
 	width: 208px;
@@ -237,6 +238,8 @@
 	font-size: 18px;
 	color: #000000;
 	margin: 0px 0px 10px 66px
+	font-family: "BPG Nino Elite", sans-serif;
+
 }
 .secondblock-text {
 	width: 260px;
@@ -245,6 +248,7 @@
 	color: #B1B1B1;
 	margin-left: 46px;
 	letter-spacing: 1px;
+	font-family: "BPG Nino Elite", sans-serif;
 }
 
 /*third block*/
@@ -272,6 +276,7 @@
 	color: #5863F8;
 	margin: 23px 0px 5px 125px;
 	text-decoration: underline overline;
+	font-family: 'BPG Nino Elite';
 }
 .heading2 {
 	width: 170px;
@@ -279,6 +284,7 @@
 	font-size: 18px;
 	color: #000000;
 	margin: 0px 0px 10px 66px;
+	font-family: 'BPG Nino Elite';
 }
 .thirdblock-text {
 	width: 260px;
@@ -287,6 +293,7 @@
 	color: #B1B1B1;
 	margin-left: 46px;
 	letter-spacing: 1px;
+	font-family: 'BPG Nino Elite';
 }
 
 
