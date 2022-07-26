@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/poppins font/Poppins-BlackItalic.eot');
+    src: url('../fonts/poppins font/Poppins-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/poppins font/Poppins-BlackItalic.woff2') format('woff2'),
+        url('../fonts/poppins font/Poppins-BlackItalic.woff') format('woff'),
+        url('../fonts/poppins font/Poppins-BlackItalic.svg#Poppins-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
