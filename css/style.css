@@ -116,7 +116,10 @@
 
 }
 .first-block {
-	
+	width: 352px;
+	height: 148px;
+	background: #F8F8F8;
+	display: inline-block;
 
 
 }
