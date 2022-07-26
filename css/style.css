@@ -218,7 +218,12 @@
 	color: #000000;
 	margin: 0px 0px 10px 66px;
 }
-
+.thirdblock-text {
+	width: 260px;
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-left: 46px;
+}
 
 
 
