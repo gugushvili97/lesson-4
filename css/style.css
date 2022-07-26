@@ -110,9 +110,11 @@
 
 }
 .container-head1 {
+	font-size: 14px;
 
 }
 .container-head2 {
+	font-size: 42px;
 
 }
 .first-block {
@@ -126,6 +128,12 @@
 	height: 212px;
 	vertical-align: top;
 }
+.text1{
+	width: 352px;
+	display: inline-block;
+	vertical-align: top;
+
+}
 .title1 {
 	font-size: 14px;
 	color: #5863F8;
@@ -136,6 +144,12 @@
 	font-size: 18px;
 	color: #000000;
 	margin: 0px 0px 10px 66px;
+}
+.firstblock-text {
+	width: 260px;
+	font-size: 14px;
+	color: #B1B1B1;
+	margin-left: 46px;
 }
 
 
